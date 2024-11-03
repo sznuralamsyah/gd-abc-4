@@ -106,7 +106,7 @@ class MainActivity : ComponentActivity() {
 
     override fun onRestart() {
         super.onRestart()
-        Log.d(TAG, "onRestart Called")
+        Log.d(TAG, "onRstart Called")
     }
 
     override fun onPause() {
